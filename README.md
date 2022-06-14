@@ -7,4 +7,4 @@ for (let i = 0; i < chuoi.length; i++) {
    }
 }
 document.querySelector('.input-ykien').value = 'Không';
-document.querySelector('.btn_submit_boxes').click();```
+document.querySelector('.btn_submit_boxes').click();
